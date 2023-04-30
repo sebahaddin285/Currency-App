@@ -9,4 +9,4 @@
 - Cardview
 
 ## Screenshots
-<img src="https://github.com/sebahaddin285/Currency-App/blob/master/images/image.gif" width="200"  alt="News-App-1"/>
+<img src="https://github.com/sebahaddin285/Currency-App/blob/master/images/image.gif" width="400"  alt="News-App-1"/>
